@@ -1,0 +1,11 @@
+{
+	"people": [{"name": "Fernando",
+					 "age": 25,
+					 "gender": "M"},
+				{"name": "Oswaldo",
+					"age": 38,
+					"gender": "M"},
+				{"name": "Vitória",
+					"age": 23,
+					"gender": "F"}]
+}
